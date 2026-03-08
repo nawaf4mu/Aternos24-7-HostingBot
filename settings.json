@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "mohjksl.aternos.me",
+    "port": 23922,
     "version": "1.21.11"
   },
   "position": {
@@ -73,12 +73,12 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1480328987858440353/bLcrZHJsiY0GPVznrFPWSVyq44yFAum5ZnXpYhNLMz6aTr2yDORdDbRCbqfwwGtwsy8I",
     "events": {
       "connect": true,
       "disconnect": true,
